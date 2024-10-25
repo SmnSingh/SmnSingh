@@ -1,5 +1,5 @@
 <img align="right" alt="header" src="/github-header-image.png">
-<h2 align="center">A passionate Frontend Developer from India.</h2>
+<h3 align="center">A passionate Frontend Developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smnsingh&label=Profile%20views&color=0e75b6&style=flat" alt="smnsingh" /> </p>
 
 - 👨‍💻 My Portfolio link: [https://sumansingh.rf.gd](https://sumansingh.rf.gd)
