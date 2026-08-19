@@ -1,22 +1,178 @@
 <h1 align="center">Hi 👋, I'm Suman Singh</h1>
-<h3 align="center">An aspiring Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smnsingh&label=Profile%20views&color=0e75b6&style=flat" alt="smnsingh" /> </p>
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Data Visualization | Cloud</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smnsingh" alt="smnsingh" /></a> </p>
-
-- 📫 How to reach me **suman4412singh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/suman-singh4412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman singh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/smnsingh">
+    <img src="https://komarev.com/ghpvc/?username=smnsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/smnsingh?tab=followers">
+    <img src="https://img.shields.io/github/followers/smnsingh?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/smnsingh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/smnsingh?affiliations=OWNER&style=flat&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smnsingh&show_icons=true&locale=en&layout=compact" alt="smnsingh" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smnsingh&show_icons=true&locale=en" alt="smnsingh" /></p>
+I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about transforming raw data into meaningful insights and actionable business decisions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smnsingh&" alt="smnsingh" /></p>
+* 🔍 Interested in **Data Analysis, Business Intelligence & Data Visualization**
+* 🐍 Working with **Python** for data analysis and exploration
+* 🗄️ Using **SQL, MySQL & PostgreSQL** for querying and data management
+* 📊 Exploring data visualization with **Pandas & Seaborn**
+* ☁️ Familiar with **AWS & Microsoft Azure**
+* 📚 Continuously improving my analytical and technical skills
+* 🚀 Building practical projects to strengthen my Data Analytics portfolio
+* 💡 Interested in solving real-world problems using data
+
+---
+
+## 🧰 Tech Stack
+
+### 📊 Data Analysis & Visualization
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+  </a>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="45" alt="PostgreSQL"/>
+  </a>
+</p>
+
+### ☁️ Cloud
+
+<p align="left">
+  <a href="https://aws.amazon.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/>
+  </a>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smnsingh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=444444&bg_color=ffffff" alt="Suman's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnsingh&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&text_color=444444&bg_color=ffffff" alt="Suman's Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=smnsingh&hide_border=true&background=FFFFFF&ring=0e75b6&fire=ff9800&currStreakLabel=0e75b6&sideLabels=444444&dates=666666" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smnsingh&bg_color=ffffff&color=444444&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+> ⭐ Replace the repository names below with your actual best projects.
+
+<p align="center">
+  <a href="https://github.com/smnsingh/PROJECT-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smnsingh&repo=PROJECT-1&hide_border=true&title_color=0e75b6" />
+  </a>
+  <a href="https://github.com/smnsingh/PROJECT-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smnsingh&repo=PROJECT-2&hide_border=true&title_color=0e75b6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/smnsingh/PROJECT-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smnsingh&repo=PROJECT-3&hide_border=true&title_color=0e75b6" />
+  </a>
+</p>
+
+---
+
+# 📊 What I'm Working On
+
+* 🐍 Improving Python skills for data analysis
+* 🧹 Practicing data cleaning and exploratory data analysis
+* 🗃️ Writing advanced SQL queries
+* 📈 Creating meaningful visualizations
+* 🧠 Developing real-world Data Analytics projects
+* ☁️ Learning more about cloud technologies
+* 💼 Building a strong Data Analyst portfolio
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=smnsingh&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+---
+
+# 📈 GitHub Repository Overview
+
+<p align="center">
+  <a href="https://github.com/smnsingh?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My-Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>My repositories showcase my journey in Data Analytics, Python, SQL and Cloud technologies.</b>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suman-singh4412">
+    <img src="https://img.shields.io/badge/LinkedIn-Suman%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:suman4412singh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-suman4412singh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/smnsingh">
+    <img src="https://img.shields.io/badge/GitHub-smnsingh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning data into insights, one analysis at a time.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+</p>
