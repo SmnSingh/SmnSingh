@@ -65,17 +65,21 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
   </a>
   <a href="https://azure.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Microsoft Azure"/>
   </a>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Overview
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smnsingh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=444444&bg_color=ffffff" alt="Suman's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnsingh&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&text_color=444444&bg_color=ffffff" alt="Suman's Top Languages"/>
+  <a href="https://github.com/smnsingh?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+  <a href="https://github.com/smnsingh?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Explore-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Explore Stars"/>
+  </a>
 </p>
 
 ---
@@ -88,7 +92,7 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smnsingh&bg_color=ffffff&color=444444&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph"/>
@@ -98,20 +102,11 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 
 # 🚀 Featured Projects
 
-> ⭐ Replace the repository names below with your actual best projects.
+Here are some of my projects focused on **Data Analytics, Python and SQL**.
 
 <p align="center">
-  <a href="https://github.com/smnsingh/PROJECT-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smnsingh&repo=PROJECT-1&hide_border=true&title_color=0e75b6" />
-  </a>
-  <a href="https://github.com/smnsingh/PROJECT-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smnsingh&repo=PROJECT-2&hide_border=true&title_color=0e75b6" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/smnsingh/PROJECT-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smnsingh&repo=PROJECT-3&hide_border=true&title_color=0e75b6" />
+  <a href="https://github.com/smnsingh">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
 
@@ -139,7 +134,7 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 
 ---
 
-# 📈 GitHub Repository Overview
+# 📂 GitHub Repository Overview
 
 <p align="center">
   <a href="https://github.com/smnsingh?tab=repositories">
