@@ -93,6 +93,19 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 
 ## 📈 GitHub Activity
 
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/smnsingh/smnsingh/output/activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="800"
+  />
+</p>
+
+
 name: Update GitHub Activity Graph
 
 on:
