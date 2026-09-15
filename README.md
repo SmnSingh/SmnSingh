@@ -92,10 +92,16 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 -->
 ---
 
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smnsingh&bg_color=ffffff&color=444444&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=smnsingh&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    width="800"
+  />
 </p>
 
 ---
