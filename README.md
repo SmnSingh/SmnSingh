@@ -93,14 +93,39 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=smnsingh&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-    width="800"
-  />
-</p>
+name: Update GitHub Activity Graph
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: smnsingh
+          options: theme=react-dark&hide_border=true&area=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Activity Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 # 🚀 Featured Projects
