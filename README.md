@@ -91,8 +91,6 @@ I'm **Suman Singh**, an aspiring **Data Analyst from India** passionate about tr
 </p>
 -->
 
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
